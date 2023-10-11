@@ -1,0 +1,12 @@
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.gallary
+{
+   width: 100vw;
+}
+.gallary img
+{
+    height: 20vw;
+}
